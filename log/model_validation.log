@@ -1,0 +1,35 @@
+05-Nov-20 04:28:36 - INFO - PROCESSO INICIADO
+05-Nov-20 04:28:41 - INFO - BIBLIOTECAS IMPORTADAS
+05-Nov-20 04:28:41 - INFO - AJUSTES DE USO DE GPU FINALIZADO COM SUCESSO
+05-Nov-20 04:29:50 - INFO - MODELO IMPORTADO COM SUCESSO
+05-Nov-20 04:29:50 - INFO - AUXILIARES CONFIGURADOS COM SUCESSO
+05-Nov-20 04:29:50 - INFO - LABELS CONFIGURADOS COM SUCESSO
+05-Nov-20 04:29:50 - INFO - VALIDAÇÃO INICIADA
+05-Nov-20 04:30:14 - INFO - Qtd Importada: 500 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:30:33 - INFO - Qtd Importada: 1000 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:30:53 - INFO - Qtd Importada: 1500 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:31:13 - INFO - Qtd Importada: 2000 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:31:33 - INFO - Qtd Importada: 2500 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:31:52 - INFO - Qtd Importada: 3000 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:32:12 - INFO - Qtd Importada: 3500 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:32:31 - INFO - Qtd Importada: 4000 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:32:51 - INFO - Qtd Importada: 4500 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:33:11 - INFO - Qtd Importada: 5000 - Classe Atual: not_safe - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\not_safe
+05-Nov-20 04:33:30 - INFO - Qtd Importada: 5500 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:33:49 - INFO - Qtd Importada: 6000 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:34:08 - INFO - Qtd Importada: 6500 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:34:27 - INFO - Qtd Importada: 7000 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:34:46 - INFO - Qtd Importada: 7500 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:35:04 - INFO - Qtd Importada: 8000 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:35:23 - INFO - Qtd Importada: 8500 - Classe Atual: safest - Pasta Analisada: C:\Users\guilo\mba-tcc\data\test\safest
+05-Nov-20 04:35:23 - INFO - VALIDAÇÃO FINALIZADA
+05-Nov-20 04:35:24 - INFO - VALIDAÇÃO DAS CLASSES INICIADA
+05-Nov-20 04:36:43 - INFO - VALIDAÇÃO DAS CLASSES FINALIZADA
+05-Nov-20 04:36:44 - INFO - RELATÓRIO DE CLASSIFICAÇÃO GERADO COM SUCESSO
+05-Nov-20 04:36:44 - INFO - MATRIZ DE CONFUSÃO CONFIGURADA COM SUCESSO
+05-Nov-20 04:36:45 - INFO - MATRIZ DE CONFUSÃO NORMALIZADA GERADA COM SUCESSO
+05-Nov-20 04:36:45 - INFO - MATRIZ DE CONFUSÃO DESNORMALIZADA GERADA COM SUCESSO
+05-Nov-20 04:36:45 - INFO - CURVA ROC CONFIGURADA COM SUCESSO
+05-Nov-20 04:36:45 - INFO - CURVA AUC CONFIGURADA COM SUCESSO
+05-Nov-20 04:36:45 - INFO - CURVA ROC GERADA COM SUCESSO
+05-Nov-20 04:36:46 - INFO - ZOOM DA CURVA ROC GERADA COM SUCESSO
