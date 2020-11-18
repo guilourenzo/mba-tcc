@@ -2,3 +2,4 @@
 /modelos
 /checkpoints
 /logs
+*.tflite
